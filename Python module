@@ -1,4 +1,0 @@
-!pip install mediapipe
-!pip install gTTS
-!pip install playsound
-!pip install pyttsx3
